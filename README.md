@@ -1,6 +1,6 @@
 ### Hello 👋
-##### - 🌱 I’m currently learning Unity / C# / C++.
-##### - 📫 How to reach me: onur.inall01@gmail.com
+#### - 🌱 I’m currently learning Unity / C# / C++.
+#### - 📫 How to reach me: onur.inall01@gmail.com
 
 <!--
 **onurinal/onurinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
