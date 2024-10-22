@@ -1,4 +1,4 @@
-### Hello 👋
+### Hi 👋
 #### - 🌱 I’m currently learning Unity and C#
 #### - 📫 How to contact me: onurinaldev@gmail.com
 
