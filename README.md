@@ -1,5 +1,5 @@
 ### Hi 👋
-#### - 🌱 I’m currently learning Unity and C#
+#### - 🌱 I’m currently making games to learn Unity and C#
 #### - 📫 How to contact me: onurinaldev@gmail.com
 
 <!--
