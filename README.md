@@ -1,18 +1,35 @@
-### Hi 👋
-#### - 🌱 I’m currently making games to learn Unity and C#
-#### - 📫 How to contact me: onurinaldev@gmail.com
+### Hi 👋 I'm Onur
+#### 🌱 Computer Engineering Student | Unity & C# Game Developer
+Focusing on **SOLID Principles**, **Modular Architecture**, and **Performance Optimization**.
 
-<!--
-**onurinal/onurinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🕹 My Projects & Technical Demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📱 Mobile / Portrait Demos
+
+| [ColorBlast](https://github.com/onurinal/ColorBlast) | [Flappy Bird](https://github.com/onurinal/FlappyBird) | [Hexfall Clone](https://github.com/onurinal/Hexfall) |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ColorBlast.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/FlappyBird.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/Hexfall.gif" width="275"> |
+| **BFS Logic • UniTask • Pooling** | **Physics • Simple Mechanics** | **Hexagonal Match Mechanic** |
+
+| [ZigZag Normal](https://github.com/onurinal/ZagZig) | [ZigZag Infinite](https://github.com/onurinal/ZagZig) |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagNormal.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagInfinite.gif" width="275"> |
+| **Input Handling • UI System** | **Procedural Generation** |
+
+---
+
+#### 💻 PC / Landscape Demo
+
+| [World Interaction System (3D)](https://github.com/...) |
+| :---: |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/WorldInteractionSystem.gif" width="70%"> |
+| **Interfaces • Observer Pattern • ScriptableObjects** |
+
+### 🛠 Technical Skills
+* **Core:** C#, Unity Engine, OOP, Design Patterns (Factory, Observer, Singleton, State)
+* **Optimization:** Object Pooling, Memory Management, Async/UniTask
+* **Tools:** Git
+
+#### 📫 Contact: onurinaldev@gmail.com
