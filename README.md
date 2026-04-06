@@ -10,12 +10,12 @@ Focusing on **SOLID Principles**, **Modular Architecture**, and **Performance Op
 
 | [ColorBlast](https://github.com/onurinal/ColorBlast) | [Flappy Bird](https://github.com/onurinal/FlappyBird) | [Hexfall Clone](https://github.com/onurinal/Hexfall) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ColorBlast.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/FlappyBird.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/Hexfall.gif" width="275"> |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ColorBlast.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/FlappyBird.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/Hexfall.gif" width="250"> |
 | **BFS Logic • UniTask • Pooling** | **Physics • Simple Mechanics** | **Hexagonal Match Mechanic** |
 
 | [ZigZag Normal](https://github.com/onurinal/ZagZig) | [ZigZag Infinite](https://github.com/onurinal/ZagZig) |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagNormal.gif" width="275"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagInfinite.gif" width="275"> |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagNormal.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagInfinite.gif" width="250"> |
 | **Input Handling • UI System** | **Procedural Generation** |
 
 ---
