@@ -1,11 +1,9 @@
 ### Hi 👋 I'm Onur
 #### 🌱 Computer Engineering Student | Unity & C# Game Developer
 Focusing on **SOLID Principles**, **Modular Architecture**, and **Performance Optimization**.  
-🚧 Currently developing ColorBlast — focusing on gameplay mechanics, chain-reaction systems, and overall polish.
-
 ---
 
-### 🕹 My Projects
+### 🕹 My Projects in Unity
 
 #### 📱 Mobile / Portrait Demos
 
