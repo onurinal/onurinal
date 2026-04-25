@@ -3,6 +3,11 @@
 #### Focusing on **SOLID Principles**, **Modular Architecture**, and **Performance Optimization**.  
 ---
 
+### 🛠 Technical Skills
+* **Core:** C#, Unity Engine, OOP, Design Patterns (Factory, Observer, Singleton, State)
+* **Optimization:** Object Pooling, Memory Management, Async/UniTask
+* **Tools:** Git
+
 ### 🕹 My Projects in Unity
 
 #### 📱 Mobile / Portrait Demos
@@ -26,9 +31,5 @@
 | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/WorldInteractionSystem.gif" width="70%"> |
 | **Interfaces • Observer Pattern • ScriptableObjects** |
 
-### 🛠 Technical Skills
-* **Core:** C#, Unity Engine, OOP, Design Patterns (Factory, Observer, Singleton, State)
-* **Optimization:** Object Pooling, Memory Management, Async/UniTask
-* **Tools:** Git
 
 #### 📫 Contact: onurinaldev@gmail.com
