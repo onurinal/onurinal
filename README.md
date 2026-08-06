@@ -1,14 +1,21 @@
-### Hi 👋 I'm Onur
-#### 🌱 Computer Engineering Student | Unity & C# Game Developer
-#### Focusing on **SOLID Principles**, **Modular Architecture**, and **Performance Optimization**.  
+### Hi 👋, I'm Onur İnal
+
+#### 🎓 Computer Engineer | Software & Systems Engineer
+
+I am a Computer Engineering student passionate about **Backend Engineering**, **Software Architecture**, and **Infrastructure Automation**. I combine strong software design principles (C#, Java, OOP, SOLID) with hands-on experience in **Linux System Administration**, **Ansible Automation**, and **Cloud Infrastructure (AWS)**.
+
 ---
 
 ### 🛠 Technical Skills
-* **Core:** C#, Unity Engine, OOP, Design Patterns (Factory, Observer, Singleton, State)
-* **Optimization:** Object Pooling, Memory Management, Async/UniTask
-* **Tools:** Git
 
-### 🕹 My Projects in Unity
+* **Programming:** C#, Java, Bash / Shell Scripting, SQL, Python, YAML, Unity
+* **Software Engineering:** Object-Oriented Programming (OOP), SOLID Principles, Design Patterns, Memory & Resource Management
+* **Systems, DevOps & Cloud:** Linux (CentOS / RHEL / Ubuntu), Ansible, AWS (EC2), VMware, Networking (TCP/IP, Routing, DNS)
+* **Tools & Version Control:** Git, GitHub
+
+---
+
+### 🕹 Unity Projects
 
 #### 📱 Mobile / Portrait Demos
 
@@ -31,5 +38,7 @@
 | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/WorldInteractionSystem.gif" width="70%"> |
 | **Interfaces • Observer Pattern • ScriptableObjects** |
 
+### 📫 Connect with Me
 
-#### 📫 Contact: onurinaldev@gmail.com
+* **Email:** [onurinaldev@gmail.com](mailto:onurinaldev@gmail.com)
+* **LinkedIn:** [linkedin.com/in/onurinall](https://www.linkedin.com/in/onurinall)
