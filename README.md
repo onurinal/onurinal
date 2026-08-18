@@ -2,7 +2,7 @@
 
 #### 🎓 Computer Engineer | Software & Systems Engineer
 
-I am a Computer Engineering student passionate about **Backend Engineering**, **Software Architecture**, and **Infrastructure Automation**. I combine strong software design principles (C#, Java, OOP, SOLID) with hands-on experience in **Linux System Administration**, **Ansible Automation**, and **Cloud Infrastructure (AWS)**.
+I am a Computer Engineer passionate about **Backend Engineering**, **Software Architecture**, and **Infrastructure Automation**. I combine strong software design principles (C#, Java, OOP, SOLID) with hands-on experience in **Linux System Administration**, **Ansible Automation**, and **Cloud Infrastructure (AWS)**.
 
 ---
 
