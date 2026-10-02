@@ -2,7 +2,7 @@
 
 #### 🎓 Computer Engineer | Software & Systems Engineer
 
-I am a Computer Engineering student passionate about **Backend Engineering**, **Software Architecture**, and **Infrastructure Automation**. I combine strong software design principles (C#, Java, OOP, SOLID) with hands-on experience in **Linux System Administration**, **Ansible Automation**, and **Cloud Infrastructure (AWS)**.
+I am a Computer Engineer passionate about Backend Engineering, Software Architecture, and Infrastructure Automation. I combine core programming languages and design principles (C#, Java, OOP, SOLID) with hands-on experience in Linux System Administration, Ansible Automation, and Cloud Infrastructure (AWS).
 
 ---
 
@@ -19,15 +19,15 @@ I am a Computer Engineering student passionate about **Backend Engineering**, **
 
 #### 📱 Mobile / Portrait Demos
 
-| [ColorBlast](https://github.com/onurinal/ColorBlast) | [Flappy Bird](https://github.com/onurinal/FlappyBird) | [Hexfall Clone](https://github.com/onurinal/Hexfall) |
+| [RestaurantLoop](https://github.com/onurinal/RestaurantLoop) | [ColorBlast](https://github.com/onurinal/ColorBlast) | [Flappy Bird](https://github.com/onurinal/FlappyBird) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ColorBlast.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/FlappyBird.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/Hexfall.gif" width="250"> |
-| **BFS Logic • UniTask • Pooling** | **Physics • Simple Mechanics** | **Hexagonal Match Mechanic** |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/RestaurantLoop.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ColorBlast.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/FlappyBird.gif" width="250"> |
+| **Team Project • Conveyor & Queue** | **BFS Logic • UniTask • Pooling** | **Physics • Simple Mechanics** |
 
-| [ZigZag Normal](https://github.com/onurinal/ZagZig) | [ZigZag Infinite](https://github.com/onurinal/ZagZig) |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagNormal.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagInfinite.gif" width="250"> |
-| **Input Handling • UI System** | **Procedural Generation** |
+| [Hexfall Clone](https://github.com/onurinal/Hexfall) | [ZigZag Normal](https://github.com/onurinal/ZagZig) | [ZigZag Infinite](https://github.com/onurinal/ZagZig) |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/Hexfall.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagNormal.gif" width="250"> | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/ZigZagInfinite.gif" width="250"> |
+| **Hexagonal Match Mechanic** | **Input Handling • UI System** | **Procedural Generation** |
 
 ---
 
