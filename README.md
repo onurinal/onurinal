@@ -15,6 +15,13 @@ Computer Engineer passionate about DevOps, Systems Engineering, and Infrastructu
 
 ---
 
+### 📫 Contact
+
+* **LinkedIn:** [linkedin.com/in/onurinall](https://www.linkedin.com/in/onurinall)
+* **Email:** [onurinaldev@gmail.com](mailto:onurinaldev@gmail.com)
+
+---
+
 ### 🕹 Unity Projects
 
 #### 📱 Mobile / Portrait Demos
@@ -37,8 +44,3 @@ Computer Engineer passionate about DevOps, Systems Engineering, and Infrastructu
 | :---: |
 | <img src="https://raw.githubusercontent.com/onurinal/onurinal/main/Media/WorldInteractionSystem.gif" width="70%"> |
 | **Interfaces • Observer Pattern • ScriptableObjects** |
-
-### 📫 Connect with Me
-
-* **Email:** [onurinaldev@gmail.com](mailto:onurinaldev@gmail.com)
-* **LinkedIn:** [linkedin.com/in/onurinall](https://www.linkedin.com/in/onurinall)
