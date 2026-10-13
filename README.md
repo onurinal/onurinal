@@ -2,15 +2,15 @@
 
 #### 🎓 Computer Engineer | Software & Systems Engineer
 
-I am a Computer Engineer passionate about Backend Engineering, Software Architecture, and Infrastructure Automation. I combine core programming languages and design principles (C#, Java, OOP, SOLID) with hands-on experience in Linux System Administration, Ansible Automation, and Cloud Infrastructure (AWS).
+Computer Engineer passionate about DevOps, Systems Engineering, and Infrastructure Automation. I combine hands-on experience in Linux administration, configuration management with Ansible, and cloud infrastructure (AWS) with a strong software background to build, automate, and scale reliable systems.
 
 ---
 
 ### 🛠 Technical Skills
 
 * **Programming:** C#, Java, Bash / Shell Scripting, SQL, Python, YAML, Unity
-* **Software Engineering:** Object-Oriented Programming (OOP), SOLID Principles, Design Patterns, Memory & Resource Management
-* **Systems, DevOps & Cloud:** Linux (CentOS / RHEL / Ubuntu), Ansible, AWS (EC2), VMware, Networking (TCP/IP, Routing, DNS)
+* **Software Engineering:** Object-Oriented Programming (OOP), SOLID Principles, Design Patterns
+* **Systems, DevOps & Cloud:** Linux, Ansible, AWS (EC2), VMware, Networking (TCP/IP, Routing, DNS)
 * **Tools & Version Control:** Git, GitHub
 
 ---
